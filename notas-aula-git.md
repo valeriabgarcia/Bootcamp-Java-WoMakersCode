@@ -75,6 +75,8 @@ git remote add origin https://github.com/valeriabgarcia/Bootcamp-Java-WoMakersCo
 
 git add .
 
+git commit -m "comentarios"
+
 ## Clonando um repositório já existente
 
 ## Comandos mais utilizados: 
