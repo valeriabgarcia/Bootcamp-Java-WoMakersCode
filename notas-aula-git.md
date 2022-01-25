@@ -123,4 +123,26 @@ git merge nome-da-branch
 ## Realizando push da branch para o github
 git push
 
+--------------
+
+# Módulo 4 - Colaborando com projetos de outras pessoas
+
+## Realizando um fork em um projeto
+
+## Clonando o seu fork
+git clone https://github.com/valeriabgarcia/potencia-feminina-git-e-github.git
+
+## Modificando algo em seu fork
+
+## Atualizando o seu fork pelo github
+
+## Comando para atualizar o seu fork com o repositório de origem
+git remote add upstream https://github.com/valeriabgarcia/potencia-feminina-git-e-github
+
+git fetch upstream
+
+git rebase upstream/master
+
+## Criando uma branch e realizando algumas alterações
+
 
