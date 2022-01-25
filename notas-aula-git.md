@@ -77,6 +77,8 @@ git add .
 
 git commit -m "comentarios"
 
+git push -u origin master
+
 ## Clonando um repositório já existente
 
 ## Comandos mais utilizados: 
