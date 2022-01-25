@@ -71,7 +71,7 @@ git init
 
 git config --global user.email "valeriabeserragarcia@gmail.com"
 
-git remote add origin https://github.com/valeriabgarcia/Bootcamp-Java-WoMakersCode.git
+git remote add origin https://github.com/valeriabgarcia/Bootcamp-Java-WoMakersCode-Git-Github.git 
 
 git add .
 
