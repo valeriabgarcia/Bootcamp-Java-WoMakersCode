@@ -145,4 +145,21 @@ git rebase upstream/master
 
 ## Criando uma branch e realizando algumas alterações
 
+---------------
+
+# Módulo 5 - Conhecendo o Github projects
+
+## Criando o projeto do curso
+
+## Criando alguns cards para testar o projects
+
+## Abrindo issues para as notas de aula de cada módulo
+
+## Vinculando elas ao projeto como se fossem cards
+
+# Fazendo pull requests e vinculando com as issues
+
+## Mergeando as pull requests para fechar as issues vinculadas
+
+
 
