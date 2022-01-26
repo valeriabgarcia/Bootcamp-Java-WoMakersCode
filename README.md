@@ -158,6 +158,7 @@ git rebase upstream/master
 ## Vinculando elas ao projeto como se fossem cards
 
 ## Fazendo pull requests e vinculando com as issues
+git checkout -b modulo-1/aula-1
 
 ## Mergeando as pull requests para fechar as issues vinculadas
 
